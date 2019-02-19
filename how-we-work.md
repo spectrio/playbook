@@ -1,6 +1,9 @@
 # How we work
 Enim officia magna commodo aute. Exercitation ea non voluptate ullamco qui laboris. In enim est sint est incididunt qui aliqua veniam adipisicing nisi reprehenderit est. Ad sint commodo sit officia duis laboris dolor cupidatat anim.
 
+## Branch Naming Conventions
+Culpa esse officia consequat et ea esse. Voluptate officia irure dolor id adipisicing pariatur sunt id irure consectetur. Esse aliqua sint minim ex irure reprehenderit sunt laborum.
+
 ## PR Peer Review
 Nisi consequat non eu aliqua adipisicing velit reprehenderit sunt deserunt ea incididunt magna sint voluptate. Occaecat quis aliquip voluptate ex nostrud laborum quis dolore minim. Occaecat laborum nostrud enim adipisicing dolor pariatur. Labore ad cupidatat ad laborum eu amet cillum velit. Eu nulla voluptate qui in consequat pariatur laboris in esse commodo dolor excepteur elit deserunt.
 
