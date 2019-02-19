@@ -1,5 +1,5 @@
 # First Days
-Your first days here will feel a bit like drinking from a firehose. That is perfectly fine. Do your best to retain what you can, but know it is ok to ask questoins; lots and lots of questions!
+Your first days here will feel a bit like drinking from a firehose. That is perfectly fine. Do your best to retain what you can, but know it is ok to ask questions; lots and lots of questions!
 
 If you come accross something that you think should be documented somewhere, ask if it is. If it is documented, note the location and come back to that reference as needed. If it isn't, feel free to document it and communicate the location!
 
@@ -13,7 +13,7 @@ If you come accross something that you think should be documented somewhere, ask
 
 ## Working Hours
 
-We usually start our days anywhere between 8am and 9am. We usually call it a day between 4pm and 6pm. We are not here to track your hours, or micromanage you. In other words, we believe in getting the job done. Not the number of hours you are in a particular seat. You are an adult. Be prodcutive. Use your time wisely. Maintain a healthy work/life balance.
+We usually start our days anywhere between 8am and 9am. We usually call it a day between 4pm and 6pm. We are not here to track your hours, or micromanage you. In other words, we believe in getting the job done. Not the number of hours you are in a particular seat. You are an adult. Be productive. Use your time wisely. Maintain a healthy work/life balance.
 
 ## Work Buddy
 
@@ -35,4 +35,4 @@ Once you are setup and ready, we will start recommending Jira stories to you fro
 
 ## HR Stuffs
 
-Lynn (our VP of Human Resources) will work with you to get your onboarding paperwork done. She will also explain benefits, pay schedule, PTO, Sick Time, Disabitly (long and short term), etc. Don't be afraid to ask her questions. She is super helpful!
+Lynn (our VP of Human Resources) will work with you to get your onboarding paperwork done. She will also explain benefits, pay schedule, PTO, Sick Time, Disability (long and short term), etc. Don't be afraid to ask her questions. She is super helpful!
