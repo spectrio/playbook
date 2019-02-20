@@ -1,20 +1,33 @@
 # Setup
-Labore reprehenderit Lorem duis quis incididunt eiusmod cillum elit tempor ad dolor cillum. Cupidatat eiusmod aliquip qui excepteur amet dolore. Quis minim aliqua sint dolore. In qui magna dolor cillum in.
+Its time to setup your laptop! This can be a bit of a process, but fret not; we are here to help!
 
 ## IDE
-Incididunt aliquip cupidatat irure nisi sint eiusmod. Pariatur aute id exercitation cupidatat Lorem elit magna ad nulla quis eiusmod ad commodo. Laborum consectetur ut consequat id occaecat adipisicing tempor voluptate non.
+Feel free to use your IDE of choice. Vim, Sublime, Atom, VS Code, whatever. Use whichever tool you feel most comfortable with. Currently the majority of the team use VS Code. We like its ease of entry, extensibility, and built in terminal. 
 
 ## Setapp
-Voluptate Lorem proident laboris anim commodo amet reprehenderit duis. Eiusmod excepteur aliqua eiusmod minim esse occaecat Lorem enim. Aliquip cillum quis dolor reprehenderit minim et labore excepteur adipisicing ea ea. Adipisicing laboris eu exercitation non aute incididunt dolor. Enim amet laboris mollit proident eu occaecat.
+You will be invited to Setapp by Jeff. Think of Setapp as the "Netflix for Mac Applications". Some of the applications you will need from Setapp are PAW (Postman on steroids), CleanMyMac, and whichever SQL GUIs you find a need for. Be sure to run CleanMyMac once every couple weeks to keep your laptop's HDD clean and its OS well maintained.
 
 ## Tower
-Deserunt tempor est aute mollit voluptate sit ea. Ea eu ut incididunt ipsum id mollit culpa proident qui eu sunt. Mollit nisi sit dolore proident ea est est ipsum consequat. Esse nulla ullamco sit elit velit labore fugiat incididunt Lorem nulla consectetur. Anim duis excepteur excepteur excepteur proident proident cillum Lorem irure nisi. Culpa Lorem elit ex culpa incididunt do irure. Consequat commodo cupidatat cillum magna duis qui culpa proident proident.
+Tower is our defacto Git GUI. Feel free to contintue to use Git's CLI, but there are times when Tower can be an absolute lifesaver! Things like cherry-picking, soft/hard resets, and commit squashing are so much easier in Tower than in the CLI. You will get an invite to install Tower with a CAL in your email on your first day.
 
 ## Slack/Glip
-Commodo veniam exercitation velit sit qui consectetur adipisicing irure qui velit officia eu sunt nostrud. Veniam reprehenderit proident veniam Lorem cillum non velit do nostrud incididunt elit occaecat reprehenderit adipisicing. Sint laborum dolor id incididunt laboris minim proident laborum. Pariatur ipsum anim veniam sint.
+This is our default chat application. Communication is vital in our world. Especially if you are remote. Be sure to sign in daily, keep an eye on the important channels, and communicate early/often if you are working remotely.
 
 ## 1Password
-Eu velit eiusmod cupidatat sunt exercitation proident eu aliquip. Excepteur irure elit elit sint ad nulla commodo elit ad ut fugiat anim pariatur id. Lorem consequat ad consequat deserunt anim ea fugiat non in. Velit qui nulla quis nostrud nulla voluptate. Velit mollit laborum fugiat et consequat labore velit sunt anim adipisicing duis exercitation voluptate. Laborum ipsum anim ex reprehenderit magna proident dolore aliquip dolore commodo voluptate adipisicing.
+You will be invited to join 1Password on your first day. This is where we store all of our shared credentials for the applications, tools, etc. In general, letting 1Password generate a password and storing it for you is the safest way to keep all of your logins secure. Ask someone for help if you are unsure how to use this tool properly.
 
-## Node, Ruby, Rbenv/RVM, Git, etc.
-Anim consectetur ut ea tempor esse adipisicing irure. Do cupidatat minim mollit id commodo consequat Lorem anim ad commodo ea id culpa. Ipsum aute laboris excepteur qui anim id excepteur Lorem nostrud pariatur. Minim sit aute eu eiusmod in commodo laborum pariatur cillum id. Ex incididunt non esse consequat nulla. Minim est amet non laboris aliqua cillum duis nisi est cillum non officia consequat incididunt. Dolore exercitation ullamco duis sunt fugiat amet eiusmod velit ullamco amet laborum.
+## Node, Ruby, Rbenv/RVM, Homebrew, etc.
+Many of our applications run on Ruby/Ruby on Rails. Rails is a full feature framework with a good number of dependancies. And well...Node is everywhere. So at a bare minimum, you will need Node, a Ruby Version Manger, Ruby, the Bundler Gem, the Rails Gem, and a host of other tools. Here are a couple ways to do this:
+
+1. Thoughtbot's Laptop Script - https://github.com/thoughtbot/laptop
+    * Pros: It is a quick/easy thing to do
+    * Cons: It is opinionated and installs a few extra things that you probably don't need/want
+2. Follow these steps
+    * Install Node - Installer app from https://nodejs.org/en/
+    * Install Homebrew - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    * Use Homebrew to install Postgresql - `brew update && brew install postgresql`
+    * Use Homebrew to install Rbenv - `brew install rbenv`
+    * Use Rbenv to install the Ruby versions you need - `rbenv install <RUBY VERSION>` - Pay attention to the post install here. You will probably need to update your bash/zsh profile to get rbenv into your PATH. You can then use `rbenv local <RUBY VERSION>` to set the ruby version for that folder/subfolders or `rbenv global <RUBY VERSION>` to set the system wide default ruby version. More info here: https://github.com/rbenv/rbenv
+    * Install the Bundler gem to each of those ruby versions - `gem install bundler`
+    * Install Rails `gem install rails -v <RAILS VERSION>`
+    
