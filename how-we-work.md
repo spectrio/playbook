@@ -30,3 +30,6 @@ We believe in convention is a tremenous tool. You will be expected to install th
 
 ## Bootstrap
 Twitter's Bootstrap is our preferred CSS/UI/UX framework. Please use the latest version of it on all new projects.
+
+## HAML over ERB
+Our preferred templating language in Rails is HAML. ERB is horrible and ugly.
