@@ -1,23 +1,30 @@
 # Our Culture
-Cillum incididunt laborum et elit velit do ea ea. Cillum amet velit esse aliquip eu laborum magna. Sunt sint pariatur reprehenderit Lorem nostrud ullamco enim velit ad Lorem aliqua.
+Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to us.
+
+## Values
+* **Be Straightforward.** Whenever we speak - internally or externally - we should speak plainly and clearly. Watch out for lingo, assumptions, exaggeration, or other things that get in the way of a straightforward explanation. This doesn't mean we strip the poetry and personal expression from our language, but it's got to make sense. With the exception of deep technical discussions, anyone who reads what we collectively write should simply get it without further explanation required. Don't use eight words when five will do.
+
+* **Be fair and do the right thing.** What's fair? What's the right thing? We all have to use our best judgment, and everyone's judgment varies, but a good rule of thumb is "what would you do for a friend or a neighbor if they asked for help?" An example might be providing a refund even if it's a little outside the refund window. Or being someone who says 'Sure we can do that for you' when a customer expected you to say 'sorry, we can't.' If the request is reasonable, grant it. At the same time, saying no is sometimes the right thing! If that’s the case, don’t feel badly about it.
+
+* **Levelheadedness.** We should be calm, considered, and thoughtful in our dealings with each other and the world at large. We don't act out of spite, we don't rush to judgment, we don't jump to conclusions. If someone disagrees with us or attacks us we listen, we think, and we respond calmly and clearly - directly addressing the idea or the situation, not the personality or the pressure.
+
+* **Generosity.** Generosity is a wonderful virtue. Being generous is surprising someone on the other end with goodwill and asking for nothing in return. It could be time, attention, or treasure - we give what we're expected to, and then some.
+
+* **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that we think are right, not that they think are right.
 
 ## Our Mission
-Ad aliqua tempor nisi est laboris. Pariatur consequat aliquip enim minim dolore voluptate enim do id consequat. Voluptate ea cupidatat dolor elit irure elit anim ea mollit et. Eiusmod aute eu officia irure ipsum voluptate do laborum dolor laborum tempor reprehenderit. Tempor incididunt reprehenderit nulla proident laborum. Tempor nulla occaecat et esse incididunt do do nostrud reprehenderit cupidatat ullamco velit.
+Our mission as a development team is to use our talents to create the best possible experience for our customers (both internal and external). We value the cities we live/work in. We strive to grow their tech communitites. We encourage volunteerizm and giving back. 
 
 ## Work/Life balance
-Ex proident reprehenderit adipisicing aliqua aute enim eiusmod eiusmod. Amet quis ex Lorem est consectetur ipsum velit amet elit. Enim fugiat est nisi commodo nulla enim ad veniam officia occaecat tempor mollit aliquip. Duis et incididunt id aute fugiat non ex non. Dolore est sit ex eu. Eu exercitation id excepteur qui commodo do nostrud eiusmod.
+We strongly believe in maintaing a good work vs life balance. We understand that things come up. Doctors appointments, dentist appointments, events for the kids, etc. They happen. Life happens. We leave it to you to determine if you can still work (but maybe remotely) or if you need to take PTO or Sick time. If you aren't sure how to make a conflict work, consult Jeff or Lynn.
 
 ## Pair programming ftw
-Adipisicing sint aute laboris deserunt culpa sunt laborum cupidatat nisi adipisicing deserunt qui commodo officia. Exercitation et tempor eiusmod proident. Do elit cupidatat fugiat laborum incididunt reprehenderit aliquip laboris incididunt Lorem. Minim quis pariatur magna ullamco consequat irure fugiat qui sit velit non commodo ipsum. Eiusmod dolor adipisicing fugiat ut nisi est eiusmod occaecat incididunt.
+We also believe that pair programming can quickly and easily level up both developers. In that vein, we strongly value pair programming. Need help with an issue? Ask to pair! Need to get your laptop setup? Ask to pair! Need to just rubberduck through a problem? Ask! We are always here to help.
 
 ## Scream for help
-Minim non cillum cillum ut aute quis labore excepteur amet consectetur. Incididunt commodo enim consequat do aute Lorem culpa elit nostrud laborum eiusmod excepteur velit nulla. Proident ullamco adipisicing commodo qui eiusmod sit Lorem.
-
-## Golden rule
-Consequat excepteur ipsum esse culpa eiusmod non laboris eiusmod elit aliquip sint irure. Magna cupidatat minim mollit incididunt culpa consectetur esse aute exercitation sint. Occaecat ea ut aute consequat magna reprehenderit officia nisi dolore laboris. Sint est Lorem dolor pariatur consequat reprehenderit tempor Lorem ipsum exercitation. Eu ex velit quis non elit ut aliqua ut. Eu dolor minim officia aliquip do quis Lorem adipisicing ea occaecat in deserunt exercitation pariatur.
-
-## Nobody knows everything
-Nulla pariatur minim in sit ullamco id magna Lorem nostrud. Aute do ut voluptate consectetur voluptate minim tempor. Nostrud commodo adipisicing laborum eiusmod reprehenderit elit.
+We don't like toiling away on a problem. If you get stuck, scream for help. That means that you should always feel comfortable asking for help in any of the appropriate Slack channels. If no one jumps in quickly, start direct messaging peers. If that doesn't work, contact Jeff. He can find someone for you. **NOTE** The first things you will be asked is "what have you already tried". Make sure you have tried the usual steps first (Google, Comment Out/Console code, etc).
 
 ## Cross training/Bus factor
-Id reprehenderit in laboris sit excepteur quis dolore non pariatur in nostrud laborum. Reprehenderit sit eu aliqua consequat cupidatat dolore labore magna. Exercitation fugiat excepteur ex officia proident et officia nostrud. Dolore ad magna elit veniam quis laboris magna consequat anim ex. Esse duis reprehenderit quis consectetur aliqua consectetur ex enim cupidatat in nulla excepteur reprehenderit. Minim id veniam quis et deserunt enim id nulla ut sit duis officia reprehenderit duis. Ea dolor pariatur dolore minim magna enim enim velit non sunt cupidatat.
+A bus factor is the amount of time, energy, money it would cost our team to replace a member if they were _"hit by a bus"_. Yes, that is a bit of a morbid way to think of things, but focus on the thought of someone suddenly not being able to contribute than the circumstances that lead up to it.
+
+In that vien, cross-training is important. But we won't always see those opprotunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to Jeff before purchasing.
