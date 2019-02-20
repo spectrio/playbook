@@ -1,17 +1,21 @@
 # Vocabulary
-Dolore occaecat nisi nulla et aliquip Lorem incididunt deserunt occaecat exercitation id. Excepteur est tempor tempor laborum ad enim sunt pariatur do dolore aute consequat aliqua sit. Minim id Lorem consequat pariatur.
+Having a shared vocabulary is important. It is even more important to understand the specific/company nuances around that vocabulary. Below are some terms that you may already know. But please take the time to read how we implement them.
 
 ## POC
-Ullamco labore esse velit pariatur sint do. Minim do enim consectetur ut eu proident et veniam. Anim commodo quis est eu veniam incididunt dolor dolor ipsum. Minim magna irure reprehenderit sunt.
+**Proof of Concept** A simple, quick way to build an application. The code behind this application may not be perfect, clean, or even tested. The goal of a POC is to get something that functions. It will almost assuredly have bugs. But if we can put in front of stakeholders and start a discussion around it, it is done. Having a POC shelved is common.
 
 ## MVP
-Pariatur aute cillum excepteur sunt magna cillum ut. Velit voluptate exercitation sunt ad fugiat do occaecat enim veniam non reprehenderit nulla. Pariatur dolor reprehenderit pariatur ad ad ea nostrud ea anim. Adipisicing adipisicing duis ea eu ipsum excepteur non anim nisi do culpa. Ad velit esse nostrud anim ipsum ad. Consequat magna amet eu nisi occaecat sunt. Aliqua occaecat consectetur proident consequat sint aliquip consequat ea officia cupidatat incididunt in tempor ea.
+**Minimally Viable Product** This is a slightly more tuned version of a POC. Unlike a POC, an MVP contains tested, well thought out code. It is built with pride. It is built with the idea that it will slowly, but surely turn into a full-featured application. But like a POC, this application is considered 'done' once it has barely enough features to work. An MVP may have authentication, authorization, and serve core needs. But it will NOT have 'all the bells and whistles'. Those bells/whistles will be bolted on as additional features as time goes on.
 
-## UAT
-Dolore adipisicing dolor ipsum dolore ullamco non consequat tempor id aliquip commodo laborum ad. Sit laborum consectetur ea in sit irure nisi laboris ex ipsum anim nulla non exercitation. Minim do proident duis sint aliquip nostrud velit excepteur reprehenderit esse incididunt non laborum. Quis enim nulla fugiat fugiat veniam labore dolor reprehenderit elit fugiat cupidatat fugiat labore. Magna quis consequat est ullamco culpa exercitation id nisi dolor.
+## UAT 
+**User Acceptance Testing** A form of testing where an application or feature is released to a staging server and stakeholders are expected to test/report bugs. UAT passes when all features are working without any reported bugs. UAT is NOT the place/time to request/add additional features.
 
 ## TDD
-Est aliquip reprehenderit amet enim commodo fugiat esse elit eu ad elit ad. Aliquip cupidatat reprehenderit qui consequat nostrud eiusmod fugiat sint ex velit. Officia duis culpa qui irure irure. Voluptate consequat quis sint esse.
+**Test Driven Development**
+You should already know this one. Testing code is important. But it is important to note are not dogmatic about when that code is tested. Write your tests before, during, or after building a feature. We really don't care. Just make sure it is fully tested before it is PR'ed. Also - if you are doing a bug fix, look for opportunities to write regression tests from keeping that bug from re-spawning in the future.
 
 ## CI/CD
-Officia occaecat do sunt elit quis minim dolore proident duis nostrud. Do et do enim exercitation elit culpa qui. Excepteur eiusmod do culpa sit esse consectetur non mollit consectetur. Proident ullamco pariatur adipisicing aliquip excepteur incididunt veniam dolor eiusmod adipisicing excepteur voluptate.
+**Continuous Integration and Continuous Delivery**
+Continuous integration is a process that kicks off every time a branch is pushed to GitHub/merged to master. CircleCI (our CI provider) will stand up a fresh Linux box, clone the branch, install the dependencies, and run the specs. If the specs don't pass, the branch/PR isn't merged.
+
+Continuous Delivery is a process that follows CI. After CI passes, certain branches will be automatically deployed to their respective servers. Right now, the master branch will be deployed to the staging servers (and staging branches). From there, we will PR the staging branch to the production branch. IF that PR passing CI/CD, it will be deployed to production.
