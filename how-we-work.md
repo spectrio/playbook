@@ -1,26 +1,32 @@
 # How we work
-Enim officia magna commodo aute. Exercitation ea non voluptate ullamco qui laboris. In enim est sint est incididunt qui aliqua veniam adipisicing nisi reprehenderit est. Ad sint commodo sit officia duis laboris dolor cupidatat anim.
+We believe in strong opinions, loosly held. If you believe in something, make a case for it. But be reasonable enough to hear all sides, and make the decision that is best for Spectrio and our values.
 
 ## Branch Naming Conventions
-Culpa esse officia consequat et ea esse. Voluptate officia irure dolor id adipisicing pariatur sunt id irure consectetur. Esse aliqua sint minim ex irure reprehenderit sunt laborum.
+When spinning up a new branch, please preface it with your initials. i.e.  `git checkout -b as/new-feature`. In this example, 'a' and 's' are my initials (Alex Spencer). And the branch name is whatever I want it to be (so long as it comes after the `/`). This convention gives us a nice foldered look inside of Tower (our default Git GUI), and it makes it dead simple to see who did what.
 
 ## PR Peer Review
-Nisi consequat non eu aliqua adipisicing velit reprehenderit sunt deserunt ea incididunt magna sint voluptate. Occaecat quis aliquip voluptate ex nostrud laborum quis dolore minim. Occaecat laborum nostrud enim adipisicing dolor pariatur. Labore ad cupidatat ad laborum eu amet cillum velit. Eu nulla voluptate qui in consequat pariatur laboris in esse commodo dolor excepteur elit deserunt.
+Unless told otherwise, every bit of code that goes into an app must be done through a pull request. In other words, directly committing to the master, staging, or production branches is a big no-no. In fact, we usually protect branches in Github settings to flat out prevent a direct push to master, but we may forget/miss that step...So just don't do it :).
 
-## Kanban
-Deserunt eiusmod non laboris laborum culpa reprehenderit velit dolore exercitation. Incididunt anim anim veniam dolore incididunt. Laboris laborum anim anim ipsum est occaecat tempor cupidatat dolore.
+Once you have submitted a PR, please choose 2 - 3 additional developers on the team and mark them as reviewers in your PR. This will notify all of them that you have a PR in need of review. **NOTE** ANY developer can leave a review on any ANY PR. This request for review process just keeps the wheels moving.
 
-## Jira
-Magna irure ullamco amet ea magna nisi voluptate est. Laboris dolor mollit Lorem laboris incididunt quis cupidatat ea enim labore anim veniam occaecat ad. Velit nulla anim cupidatat in occaecat. Et mollit enim adipisicing mollit laborum. Laboris culpa cillum reprehenderit incididunt occaecat reprehenderit sunt amet aute veniam. Duis officia sit ullamco in cillum officia magna incididunt dolore ea non. Amet sint labore ad do anim sunt veniam id duis duis.
+Once a PR has had one successful approval, it may be merged by either the approver or the person that submitted the PR.
+
+## Jira and Kanban
+You will be added to Jira and assigned to any project boards that your expertise may be valuable on. Each board is groomed weekly. We follow a Kanban style of development. In other words: 
+    * Work your way down the board until you see something you feel comfortable doing.
+    * Take work as you need it.
+    * Do it right the first time (tested, clean code pls).
+    * Then move onto the next job.
+    * Deadlines are for journalists. We are developers. Don't waste time and certainly ask for help if you are stuck. But unless told otherwise, just do what needs to be done.
 
 ## Standups
-Eu ex exercitation consectetur commodo ut laboris aute. Ut tempor consectetur occaecat do commodo. Esse laboris adipisicing labore laborum sunt do amet fugiat. Enim mollit adipisicing consequat dolor dolore ex eu. Ex amet sint anim incididunt sunt in elit consectetur et et nulla.
+We participate in daily standups. A standup is a quick meeting where we can get any company/team announcements from Jeff, then everyone states what they are working on and if they are blocked. That is it. If something that is mentioned kicks up a new conversation, the first person to say: _"We should probably pair on this"_ or _"We should take this offline"_ wins the standup!
 
 ## Form creation
-Aliquip dolore id aute aliqua ex incididunt culpa sint ad. In consectetur sunt ex commodo magna ad pariatur amet esse sit ut exercitation excepteur cupidatat. Elit aute amet tempor pariatur voluptate. Id et et id ipsum do elit non amet adipisicing Lorem amet aliquip ad. Lorem anim sit do tempor exercitation ipsum sit fugiat minim quis laboris aliquip.
+HTML forms are everywhere. There isn't an web application on the planet that doesn't have at least one or two. We believe in using the Simple Form gem when the form is truly simple and using good old HTML when the form is more complicated. Examples of complicated forms are those with radio buttons or check boxes tied back to associated models or any nested form in general. If you aren't sure which tool to grab for here, ask.
 
 ## Prettier/Rubocop
-Deserunt duis dolore fugiat adipisicing do in dolor ullamco. Ipsum veniam eiusmod mollit labore sunt excepteur. Anim est officia fugiat minim aliqua ad occaecat minim cupidatat irure. Incididunt cupidatat excepteur sit est laborum. Reprehenderit in fugiat aliqua amet exercitation est irure Lorem est.
+We believe in convention is a tremenous tool. You will be expected to install the Rubocop (for ruby) and Prettier (for JS)extensions into your IDE. You will be given a config file that tells both of these code formatting tools about our agreed upon conventions. Please do not submit code that hasn't been properly formatted by their respective extensions.
 
 ## Bootstrap
-Magna dolore occaecat velit laboris voluptate ipsum nostrud culpa consequat. Tempor non exercitation eiusmod magna reprehenderit voluptate eu quis ad do sunt nostrud in. Duis nostrud pariatur dolor adipisicing minim. Quis sint elit dolor cillum.
+Twitter's Bootstrap is our preferred CSS/UI/UX framework. Please use the latest version of it on all new projects.
