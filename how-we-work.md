@@ -9,6 +9,8 @@ Unless told otherwise, every bit of code that goes into an app must be done thro
 
 Once you have submitted a PR, please choose 2 - 3 additional developers on the team and mark them as reviewers in your PR. This will notify all of them that you have a PR in need of review. **NOTE** ANY developer can leave a review on any ANY PR. This request for review process just keeps the wheels moving.
 
+While submitting a PR, please provide a bullet pointed TL;DR list of things that the PR is actually changing. This will help the reviewer quickly identify the stated goal and if you implimentation meets that goal.
+
 Once a PR has had one successful approval, it may be merged by either the approver or the person that submitted the PR.
 
 ## Jira and Kanban
@@ -33,3 +35,16 @@ Twitter's Bootstrap is our preferred CSS/UI/UX framework. Please use the latest 
 
 ## HAML over ERB
 Our preferred templating language in Rails is HAML. ERB is horrible and ugly.
+
+## Better Errors
+Every Rails project we work on needs to have the better errors and binding of caller gems added to the development section of the gem file. This makes debugging code about 1000x easier. If you are unfamiliar with their use, please ask for a demo.
+
+## Byebug
+Sometimes we nee to debug something outside of the web. Rake tasks, scripts, etc. For those cases, we use byebug in all of our Ruby applications. To create a breakpoint add `byebug` into the code. Execute the code and it will pause with a live enviornment command prompt. More info about byebug here: https://github.com/deivid-rodriguez/byebug . If you prefer Pry (a similar gem), we are great with that too!
+
+## ENV Variables
+ENV Variables will either be stored in a .env file (using the dot-env gem) if the application is older than Rails 5.2. Any Rails application versioned over 5.2 will use the more modern encrypted credentials protocal. More information for both here:
+
+  * Dot-env: https://github.com/bkeepers/dotenv
+  * Encrypted Creds: https://medium.com/cedarcode/rails-5-2-credentials-9b3324851336
+
