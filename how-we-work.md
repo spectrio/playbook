@@ -48,3 +48,6 @@ ENV Variables will either be stored in a .env file (using the dot-env gem) if th
   * Dot-env: https://github.com/bkeepers/dotenv
   * Encrypted Creds: https://medium.com/cedarcode/rails-5-2-credentials-9b3324851336
 
+## Markdown
+We use markdown in all of our README's, and other technical documents. If you haven't already learned Markdown, please take some time to do so (about half a day is all it takes). Here is the guide: https://daringfireball.net/projects/markdown/syntax. If you have any questions about Markdown, please ask!
+
