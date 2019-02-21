@@ -25,9 +25,9 @@ Many of our applications run on Ruby/Ruby on Rails. Rails is a full feature fram
 2. Follow these steps
     * Install Node - Installer app from https://nodejs.org/en/
     * Install Homebrew - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-    * Use Homebrew to install Postgresql - `brew update && brew install postgresql`
+    * Use Homebrew to install Postgresql - `brew install postgresql`
+    * Install Ruby Build - `brew install ruby-build`
     * Use Homebrew to install Rbenv - `brew install rbenv`
     * Use Rbenv to install the Ruby versions you need - `rbenv install <RUBY VERSION>` - Pay attention to the post install here. You will probably need to update your bash/zsh profile to get rbenv into your PATH. You can then use `rbenv local <RUBY VERSION>` to set the ruby version for that folder/subfolders or `rbenv global <RUBY VERSION>` to set the system wide default ruby version. More info here: https://github.com/rbenv/rbenv
     * Install the Bundler gem to each of those ruby versions - `gem install bundler`
-    * Install Rails `gem install rails -v <RAILS VERSION>`
     
