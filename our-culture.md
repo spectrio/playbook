@@ -18,16 +18,21 @@ Our mission as a development team is to use our talents to create the best possi
 ## Work/Life balance
 We strongly believe in maintaining a good work/life balance. We understand that things come up. Doctor appointments, dentist appointments, events for the kids, etc. They happen. Life happens. We leave it to you to determine if you can still work (but maybe remotely) or if you need to take PTO or sick time. If you aren't sure how to make a conflict work, consult your supervisor or HR.
 
+
 ## Pair programming ftw
 We also believe that [pair programming](https://en.wikipedia.org/wiki/Pair_programming) can quickly and easily level up both developers. In that vein, we strongly value pair programming. Need help with an issue? Ask to pair! Need to get your laptop setup? Ask to pair! Need to just rubberduck through a problem? Ask! We are always here to help.
 
 ## Scream for help
 We don't like toiling away on a problem. If you get stuck, scream for help. That means that you should always feel comfortable asking for help in any of the appropriate Slack channels. If no one jumps in quickly, start direct messaging peers. If that doesn't work, contact your supervisor. He can find someone for you. **NOTE:** The first things you will be asked is "what have you already tried". Make sure you have tried the usual steps first (Google, Comment Out/Console code, etc).
 
-## Cross training/Bus factor
-A bus factor is the amount of time, energy, money it would cost our team to replace a member if they were _"hit by a bus"_. A less gruesome way to think about it is what would happen if a team member won the lottery and walked out the door. Focus on the thought of someone suddenly not being able to contribute than the circumstances that lead up to it.
 
-In any event, employee turnover is a thing and the best way to protect the team is by cross-training. However, we won't always see those opportunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to your supervisor before purchasing.
+## Cross training/Bus factor
+A bus factor is the amount of time, energy, money it would cost our team to replace a member if they were _"hit by a bus"_. A less gruesome way to think about it is what would happen if a team member won the lottery and walked out the door. Focus on the thought of someone suddenly not being able to contribute than the circumstances that lead up to it. In any event, employee turnover is a thing and the best way to protect the team is by cross-training. However, we won't always see those opportunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to your supervisor before purchasing.
 
 ## Professional development
 To expand on the previous section: professional development **is part of your job**. Do not hesitate to continuously improve your craftsmanship through online training or in-person classes, even on company time (as appropriate). If you're interested in attending conferences, make your case to your supervisor and we'll see what we can do.
+
+## Gif vs Jif
+Its pronounced with a g, not a j. We don't care what the creator of GIFs calls it. Choosy moms choose JIF, but choosy developers choose GIFs!
+
+
