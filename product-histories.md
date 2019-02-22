@@ -1,11 +1,14 @@
 # Product Histories
-In velit nisi esse eu id consectetur. Irure voluptate nostrud veniam fugiat velit adipisicing laborum. Id in qui sunt cillum ea commodo.
+A full timeline of Spectrio's history and acquisitions can be found here: https://www.spectrio.com/acquisitions/.
 
 ## Spectrio
-Proident cillum quis excepteur amet eu nostrud minim exercitation tempor reprehenderit dolore nostrud. Id consequat fugiat laboris nostrud eu. Occaecat id pariatur veniam aliqua elit Lorem id ad reprehenderit id amet deserunt.
+In 1986 Conquest Communications was founded by Mitch Keller. Through a series of mergers and acquisitions that company later became Spectrio. Spectrio is one of the nation’s leading end to end technology-enabled in-store marketing companies, providing professional content and managed services on a monthly subscription basis.
+
+Our solutions, consisting of On-Hold Messaging, Digital Signage, WiFi Marketing, and In-Store Music, enable our clients to engage, educate and entertain their customers, across all customer touch points.
+
 
 ## 10FootWave
-Qui sunt laborum ut duis veniam cupidatat commodo qui culpa id consectetur aute. Sint eiusmod minim labore laboris dolore est laboris duis elit commodo fugiat veniam ad in. Esse aliquip reprehenderit cupidatat velit non dolore consectetur labore. Lorem est tempor exercitation deserunt labore aliqua dolore excepteur. Et aliqua incididunt adipisicing mollit irure adipisicing. Excepteur Lorem et et irure minim deserunt enim nulla eiusmod proident consequat culpa et.
+As of February 9th, 2018, 10 Foot Wave has merged with Spectrio. And FAQ of the acquisition is here: https://www.spectrio.com/acquisitions/10footwave/. 10FootWave applications consist of Ruby, Sinatra, Rails, Typescript and so much more! Ask your team members for a tour of the 10FootWave app. It is important you see it from a customer, admin, and developer point of view.
 
 ## Codigo
-Cillum amet Lorem et est. Pariatur ipsum cupidatat magna non ipsum amet. Cupidatat do irure tempor excepteur eu irure eiusmod magna culpa veniam anim et. Ad aliquip nisi quis nostrud culpa. In occaecat et anim anim. Laborum incididunt elit est incididunt occaecat.
+Codigo is a (relatively) recent acquisition of ours. More information can be found about them here: https://www.gocodigo.com/. Their application runs on a C# MVC API with a VueJS frontend. Ask your team members for a tour of the this app as well; for the same reasons.
