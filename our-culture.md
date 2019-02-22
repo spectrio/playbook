@@ -28,3 +28,7 @@ We don't like toiling away on a problem. If you get stuck, scream for help. That
 A bus factor is the amount of time, energy, money it would cost our team to replace a member if they were _"hit by a bus"_. Yes, that is a bit of a morbid way to think of things, but focus on the thought of someone suddenly not being able to contribute than the circumstances that lead up to it.
 
 In that vien, cross-training is important. But we won't always see those opprotunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to Jeff before purchasing.
+
+## Gif vs Jif
+Its pronounced with a g, not a j. We don't care what the creator of GIFs calls it. Choosy moms choose JIF, but choosy developers choose GIFs!
+
