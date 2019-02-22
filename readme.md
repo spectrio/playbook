@@ -1,6 +1,6 @@
 # Spectrio Development Team's Playbook
 
-Welcome to the Spectio Development Team's playbook. This is a living document that is meant to be changed **early and often**!
+Welcome to the Spectrio Development Team's playbook. This is a living document that is meant to be changed **early and often**!
 
 The playbook has largely been inspired by _(or downright stolen from)_ [The Thoughtbot Playbook](https://thoughtbot.com/playbook) and [The Basecamp Handbook](https://github.com/basecamp/handbook). We encourage you to look through these references from time to time and bring up any new changes you see that would be a good fit here!
 
