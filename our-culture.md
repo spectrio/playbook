@@ -16,18 +16,18 @@ Before anything else, values come first. Without clear, shared values, we wander
 Our mission as a development team is to use our talents to create the best possible experience for our customers (both internal and external). We value the cities we live/work in. We strive to grow their tech communitites. We encourage volunteerizm and giving back. 
 
 ## Work/Life balance
-We strongly believe in maintaing a good work vs life balance. We understand that things come up. Doctors appointments, dentist appointments, events for the kids, etc. They happen. Life happens. We leave it to you to determine if you can still work (but maybe remotely) or if you need to take PTO or Sick time. If you aren't sure how to make a conflict work, consult Jeff or Lynn.
+We strongly believe in maintaing a good work vs life balance. We understand that things come up. Doctors appointments, dentist appointments, events for the kids, etc. They happen. Life happens. We leave it to you to determine if you can still work (but maybe remotely) or if you need to take PTO or Sick time. If you aren't sure how to make a conflict work, consult VP of Technology or VP of HR.
 
 ## Pair programming ftw
 We also believe that pair programming can quickly and easily level up both developers. In that vein, we strongly value pair programming. Need help with an issue? Ask to pair! Need to get your laptop setup? Ask to pair! Need to just rubberduck through a problem? Ask! We are always here to help.
 
 ## Scream for help
-We don't like toiling away on a problem. If you get stuck, scream for help. That means that you should always feel comfortable asking for help in any of the appropriate Slack channels. If no one jumps in quickly, start direct messaging peers. If that doesn't work, contact Jeff. He can find someone for you. **NOTE** The first things you will be asked is "what have you already tried". Make sure you have tried the usual steps first (Google, Comment Out/Console code, etc).
+We don't like toiling away on a problem. If you get stuck, scream for help. That means that you should always feel comfortable asking for help in any of the appropriate Slack channels. If no one jumps in quickly, start direct messaging peers. If that doesn't work, contact VP of Technology. He can find someone for you. **NOTE** The first things you will be asked is "what have you already tried". Make sure you have tried the usual steps first (Google, Comment Out/Console code, etc).
 
 ## Cross training/Bus factor
 A bus factor is the amount of time, energy, money it would cost our team to replace a member if they were _"hit by a bus"_. Yes, that is a bit of a morbid way to think of things, but focus on the thought of someone suddenly not being able to contribute than the circumstances that lead up to it.
 
-In that vien, cross-training is important. But we won't always see those opprotunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to Jeff before purchasing.
+In that vien, cross-training is important. But we won't always see those opprotunities. It will be up to you to continue growing/learning. Talk to your team about what gaps we have or bus factors may be lurking. Look into Udemy, Frontend Masters, Lynda.com, Pluralsight, Treehouse, and YouTube for ways to pick up new skills. If you need reimbursement for any training, please talk to the VP of Technology before purchasing.
 
 ## Gif vs Jif
 Its pronounced with a g, not a j. We don't care what the creator of GIFs calls it. Choosy moms choose JIF, but choosy developers choose GIFs!
