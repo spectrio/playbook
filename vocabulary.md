@@ -4,6 +4,9 @@ Having a shared vocabulary is important. It is even more important to understand
 ## POC
 **Proof of Concept** A simple, quick way to build an application. The code behind this application may not be perfect, clean, or even tested. The goal of a POC is to get something that functions. It will almost assuredly have bugs. But if we can put in front of stakeholders and start a discussion around it, it is done. Having a POC shelved is common.
 
+## MVC
+**Model View Controller** A software architecture pattern that splits the concerns of the application into three different class types: Model - the central component and usually represented by a table in a database. View - the representation of information to the user (web pages, tables, charts, etc.)Controller - the translation layer between the other two types of classes, for instance, accepting input from a View to pass to a Model or formatting data from Model to pass to a View.
+
 ## MVP
 **Minimally Viable Product** This is a slightly more tuned version of a POC. Unlike a POC, an MVP contains tested, well thought out code. It is built with pride. It is built with the idea that it will slowly, but surely turn into a full-featured application. But like a POC, this application is considered 'done' once it has barely enough features to work. An MVP may have authentication, authorization, and serve core needs. But it will NOT have 'all the bells and whistles'. Those bells/whistles will be bolted on as additional features as time goes on.
 
