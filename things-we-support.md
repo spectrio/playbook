@@ -1,17 +1,14 @@
 # Things we support
-Eiusmod amet eu eiusmod ullamco velit amet et et adipisicing laborum. Sunt cupidatat fugiat ipsum voluptate pariatur quis aliqua. Officia labore velit id aliquip et exercitation minim amet officia cupidatat esse et. Elit ea Lorem anim exercitation occaecat eu reprehenderit elit eu est culpa ex velit. Ullamco ad nulla id adipisicing culpa voluptate non.
+We support/believe in the the following things. These may not be our core values, but these are things we do encourage. 
 
 ## Open honest communication
-Deserunt esse ad cupidatat deserunt. Sunt dolor qui qui irure aute aute minim dolor. Nisi ea id qui anim occaecat in qui amet proident amet aliqua id. Eu consectetur eu nisi esse ut laboris esse. Excepteur id exercitation amet culpa id non veniam. Eu occaecat reprehenderit incididunt culpa pariatur est ad eiusmod occaecat enim. Laborum cillum deserunt id magna ipsum.
+We believe that open and honest communication is critial to the success of any team. If you submit a PR with issues that a coworker may want changed, please do not feel attacked over it. They are asking questions or offering suggestions to make that code better. Take pride in your work, but don't be prideful. Ask for feedback or help, then be sure to use it when it is given.
 
 ## Strong opinions, loosly held
-Minim non voluptate eu reprehenderit Lorem quis ex aliquip. In labore eu irure reprehenderit dolore velit Lorem tempor Lorem consectetur labore nostrud. Ipsum voluptate qui consequat exercitation id tempor consectetur adipisicing fugiat. Sint velit veniam quis mollit adipisicing qui do pariatur ut officia do quis officia.
-
-## Pride in your work
-Irure nulla nulla adipisicing elit quis irure labore id. Id reprehenderit laborum non Lorem anim in ad ea reprehenderit irure cupidatat irure. Velit aute aute non amet eu magna do irure tempor est ullamco aliqua mollit. Cillum quis elit dolore sit ad sint ad aliquip. Enim laborum nisi enim laborum eiusmod in ex excepteur nostrud duis nulla mollit. Irure id sint cillum enim non fugiat tempor excepteur. Cillum id cupidatat ut qui fugiat fugiat adipisicing ipsum deserunt fugiat laboris.
-
-## Convention over configuration
-Labore excepteur reprehenderit deserunt minim magna ex proident mollit commodo voluptate sunt non id. Duis in id aute voluptate qui laborum labore anim adipisicing mollit sint aliquip nisi. Labore dolore voluptate aliquip dolore. Irure ea cupidatat ex amet consectetur occaecat laboris amet culpa exercitation. Dolor consequat non mollit deserunt ex sit anim occaecat. Ipsum sint elit duis id non ex esse amet velit sunt. Sit eu consequat mollit quis occaecat nisi magna occaecat exercitation laboris veniam.
+In the same vein as open/honest communication, we also expect that everyone on the team will have their own opinions. We also expect those opinions will differ _(greatly)_ sometimes. That is OK! In fact, it is encouraged! We just expect that those opinions be loosly held. Don't let stubborness cloud your judgement. Be open to all possiblilities. Use common sense and our mission/values to do what is best for the team/Spectrio.
 
 ## Open source when possible
-Sint dolore mollit adipisicing ipsum veniam nostrud ex veniam proident ex do qui. Esse adipisicing exercitation aute sunt est pariatur eu ea aliquip commodo qui sunt. Veniam quis magna incididunt ullamco minim veniam non sit culpa eiusmod pariatur mollit. Non enim aute do amet laborum ipsum occaecat elit et.
+We believe in Open Source. We have all built our careers around open source. And in those viens, we dedicate a portion of our time to contribute to open source. You can do this a couple different ways:
+
+  1. While using a gem, or open source tool and you see an issue, you may take time to submit an issue or PR to that gem/tools repo.
+  2. If you are building a library or gem internally that does NOT contain any proprietarty code/info, you may ask the VP of Technology permission to open source that library. This very Playbook is open sourced!
