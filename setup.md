@@ -8,7 +8,7 @@ Feel free to use your IDE of choice. Vim, Sublime, Atom, VS Code, whatever. Use 
 You will be invited to Setapp by Jeff. Think of Setapp as the "Netflix for Mac Applications". Some of the applications you will need from Setapp are PAW (Postman on steroids), CleanMyMac, and whichever SQL GUIs you find a need for. Be sure to run CleanMyMac once every couple weeks to keep your laptop's HDD clean and its OS well maintained.
 
 ## Tower
-Tower is our defacto Git GUI. Feel free to contintue to use Git's CLI, but there are times when Tower can be an absolute lifesaver! Things like cherry-picking, soft/hard resets, and commit squashing are so much easier in Tower than in the CLI. You will get an invite to install Tower with a CAL in your email on your first day.
+Tower is our go to Git GUI. Feel free to continue to use Git's CLI, but there are times when Tower can be an absolute lifesaver! Things like cherry-picking, soft/hard resets, and commit squashing are so much easier in Tower than in the CLI. You will get an invite to install Tower with a CAL in your email on your first day.
 
 ## Slack/Glip
 This is our default chat application. Communication is vital in our world. Especially if you are remote. Be sure to sign in daily, keep an eye on the important channels, and communicate early/often if you are working remotely.

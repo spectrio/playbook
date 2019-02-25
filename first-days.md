@@ -1,7 +1,7 @@
 # First Days
 Your first days here will feel a bit like drinking from a firehose. That is perfectly fine. Do your best to retain what you can, but know it is ok to ask questions; lots and lots of questions!
 
-If you come accross something that you think should be documented somewhere, ask if it is. If it is documented, note the location and come back to that reference as needed. If it isn't, feel free to document it and communicate the location!
+If you come across something that you think should be documented somewhere, ask if it is. If it is documented, note the location and come back to that reference as needed. If it isn't, feel free to document it and communicate the location!
 
 ## Table of Contents
 
@@ -35,4 +35,4 @@ Once you are setup and ready, we will start recommending Jira stories to you fro
 
 ## HR Stuffs
 
-Lynn (our VP of Human Resources) will work with you to get your onboarding paperwork done. She will also explain benefits, pay schedule, PTO, Sick Time, Disability (long and short term), etc. Don't be afraid to ask her questions. She is super helpful!
+Lynn (our VP of Human Resources) will work with you to get your on-boarding paperwork done. She will also explain benefits, pay schedule, PTO, Sick Time, Disability (long and short term), etc. Don't be afraid to ask her questions. She is super helpful!
