@@ -20,3 +20,6 @@ The playbook has largely been inspired by _(or downright stolen from)_ [The Thou
 
 ## Contributing/Changing the Playbook
 Pull requests are always welcomed! The PR will serve as the one lasting place to cuss/discuss any changes to policy. This will create a living log of the decisions we made, and why we made em! Unless otherwise stated, once merged in, the new policy is in effect!
+
+## License
+This document is © 2019 [Spectrio](http://www.spectrio.com). It is distributed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
