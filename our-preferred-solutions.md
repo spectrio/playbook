@@ -9,3 +9,7 @@ Whenever possible, we try to balance the need for "DevOps as a Service" _(AKA He
 
 ## Atlas for MongoDb
 Some of our legacy applications use MongoDb. We have used Amazon's DocumentDb service in the past, and it has not gone well at all. We firmly believe that DocumentDb is not ready for prime time. In contrast, Atlas's MongoDb as a service has been a great fit. We will stick with them for the foreseeable future.
+
+## Some Things We Prefer NOT To Use
+We have run across a few things in our day to day that we prefer NOT to use if possible. They either add more work/configuration than they are worth, are just broken, or something else that has led us to that decision. Here are a few things we don't use:
+  * The VCR gem - Webmock is great on its own. VCR is clunky, painful to use, and just not worth it.
