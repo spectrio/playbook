@@ -30,4 +30,5 @@ Many of our applications run on Ruby/Ruby on Rails. Rails is a full feature fram
     * Use Homebrew to install Rbenv - `brew install rbenv`
     * Use Rbenv to install the Ruby versions you need - `rbenv install <RUBY VERSION>` - Pay attention to the post install here. You will probably need to update your bash/zsh profile to get rbenv into your PATH. You can then use `rbenv local <RUBY VERSION>` to set the ruby version for that folder/subfolders or `rbenv global <RUBY VERSION>` to set the system wide default ruby version. More info here: https://github.com/rbenv/rbenv
     * Install the Bundler gem to each of those ruby versions - `gem install bundler`
+    * Setup SSH between this laptop and Github - https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
     
