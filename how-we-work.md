@@ -28,7 +28,7 @@ We participate in daily standups. A standup is a quick meeting where we can get 
 HTML forms are everywhere. There isn't an web application on the planet that doesn't have at least one or two. We believe in using the Simple Form gem when the form is truly simple and using good old HTML when the form is more complicated. Examples of complicated forms are those with radio buttons or check boxes tied back to associated models or any nested form in general. If you aren't sure which tool to grab for here, ask.
 
 ## Prettier/Rubocop
-We believe in convention is a tremenous tool. You will be expected to install the Rubocop (for ruby) and Prettier (for JS)extensions into your IDE. You will be given a config file that tells both of these code formatting tools about our agreed upon conventions. Please do not submit code that hasn't been properly formatted by their respective extensions.
+We believe in convention is a tremendous tool. You will be expected to install the Rubocop (for ruby) and Prettier (for JS)extensions into your IDE. You will be given a config file that tells both of these code formatting tools about our agreed upon conventions. Please do not submit code that hasn't been properly formatted by their respective extensions.
 
 ## Bootstrap
 Twitter's Bootstrap is our preferred CSS/UI/UX framework. Please use the latest version of it on all new projects.
@@ -40,13 +40,13 @@ Our preferred templating language in Rails is HAML. ERB is horrible and ugly.
 Every Rails project we work on needs to have the better errors and binding of caller gems added to the development section of the gem file. This makes debugging code about 1000x easier. If you are unfamiliar with their use, please ask for a demo.
 
 ## Byebug
-Sometimes we nee to debug something outside of the web. Rake tasks, scripts, etc. For those cases, we use byebug in all of our Ruby applications. To create a breakpoint add `byebug` into the code. Execute the code and it will pause with a live enviornment command prompt. More info about byebug here: https://github.com/deivid-rodriguez/byebug . If you prefer Pry (a similar gem), we are great with that too!
+Sometimes we nee to debug something outside of the web. Rake tasks, scripts, etc. For those cases, we use byebug in all of our Ruby applications. To create a breakpoint add `byebug` into the code. Execute the code and it will pause with a live environment command prompt. More info about byebug here: https://github.com/deivid-rodriguez/byebug . If you prefer Pry (a similar gem), we are great with that too!
 
 ## ENV Variables
-ENV Variables will either be stored in a .env file (using the dot-env gem) if the application is older than Rails 5.2. Any Rails application versioned over 5.2 will use the more modern encrypted credentials protocal. More information for both here:
+ENV Variables will either be stored in a .env file (using the dot-env gem) if the application is older than Rails 5.2. Any Rails application versioned over 5.2 will use the more modern encrypted credentials protocol. More information for both here:
 
   * Dot-env: https://github.com/bkeepers/dotenv
-  * Encrypted Creds: https://medium.com/cedarcode/rails-5-2-credentials-9b3324851336
+  * Encrypted Credentials: https://medium.com/cedarcode/rails-5-2-credentials-9b3324851336
 
 ## Markdown
 We use markdown in all of our README's, and other technical documents. If you haven't already learned Markdown, please take some time to do so (about half a day is all it takes). Here is the guide: https://daringfireball.net/projects/markdown/syntax. If you have any questions about Markdown, please ask!
