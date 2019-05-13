@@ -23,7 +23,7 @@ Usually when you start a new job in an office, it's clear who does what. It's st
 
 During the first few weeks you will do a decent amount of pair programming. You will spend hours pairing, asking questions, etc. But, you may also be asked to do various setup/entry level tasks on your own. Please don't let yourself get bogged down or stuck for even a few minutes without asking for help. We want to keep you moving forward!
 
-Plan to spend an hour or two pairing, then an hour or two on your own, then rinse/repeat until you feel ready to take on the world!
+Plan to spend an hour or two pairing, then an hour or two on your own, then rinse/repeat until you feel ready to take on the world! For new Jr Developers, please see the [Training Schedule](jr-dev-training.md) that will outline your first few days here.
 
 ## Equipment/Logins
 
