@@ -1,6 +1,6 @@
 # Jr Developer Training Schedule
 
-Welcome to the team! We are very happy to work with you! We want you to feel comfortable coming to any of us with questions. Remember one of the dev team values is: **SHOUT for help**. Don't spend hours turmoiling over an issue. Bubble it up quickly and loudly. That said, it may be hard know what you don't know. This guide exists to help train you up quickly.
+Welcome to the team! We are very happy to work with you! We want you to feel comfortable coming to any of us with questions. Remember one of the dev team values is: **SHOUT for help**. Don't spend hours turmoiling over an issue. Bubble it up quickly and loudly. That said, it may be hard to know what you don't know. This guide exists to help train you up quickly.
 
 You will go through each of these sections with your work buddy. Each day will consist of:
 
@@ -8,7 +8,7 @@ You will go through each of these sections with your work buddy. Each day will c
 * 3 - 4 hours of self study
 
 
-The rest of your day should be spent contributing to live code. After all, the best way to learn is to dive in and do! Your work buddy will get you into our Jira system, find some good tickets for you to work, and assign them to you.
+The rest of your day should be spent contributing to live code. After all, the best way to learn is to dive in and do it! Your work buddy will get you into our Jira system, find some good tickets for you to work, and assign them to you.
 
 ## Training Schedule
 
@@ -29,7 +29,7 @@ Spin up a new rails app to blog about your first few days here! The app should h
 
 **Do NOT** use scaffolding/generators for your routes, views, or controllers. You can generate your models because we want the timestamped migration files built for us, but that is it!
 
-Deploy this application to Heroku. Write up a small blog post about what you learned today (repeat this every day for the next 5 days). Post a link daily in Glip to let the rest of the team comment/cheer you on!
+Deploy this application to Heroku. Write up a small blog post about what you learned today (repeat this every day for the next five days). Post a link daily in Glip to let the rest of the team comment/cheer you on!
 
 
 ### Day 2
