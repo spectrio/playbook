@@ -4,6 +4,22 @@ We believe in strong opinions, loosly held. If you believe in something, make a 
 ## Branch Naming Conventions
 When spinning up a new branch, please preface it with your initials. i.e.  `git checkout -b as/new-feature`. In this example, 'a' and 's' are my initials (Alex Spencer). And the branch name is whatever I want it to be (so long as it comes after the `/`). This convention gives us a nice foldered look inside of Tower (our default Git GUI), and it makes it dead simple to see who did what.
 
+## Commit Messages
+Try to follow [the seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/#seven-rules)
+
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the body at 72 characters
+7. Use the body to explain what and why vs. how
+
+## Pull Requests
+We encourage your workflow for saving progress while you code; however, we don't need to know every step you took to get to the end state. Before submitting a pull request, please squash your commits into one (`git rebase -i` is helpful here). The exception to this is when it would be helpful for the reviewer to logically break up the code with a few more commits.
+
+When merging a pull request, use the "Squash and Merge" option from the drop down; this helps keep the log clean and purposeful.
+
 ## PR Peer Review
 Unless told otherwise, every bit of code that goes into an app must be done through a pull request. In other words, directly committing to the master, staging, or production branches is a big no-no. In fact, we usually protect branches in Github settings to flat out prevent a direct push to master, but we may forget/miss that step...So just don't do it :).
 
