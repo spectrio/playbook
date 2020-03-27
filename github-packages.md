@@ -17,7 +17,7 @@ echo "registry=https://registry.npmjs.org/" >> .npmrc
 echo "@spectrio:registry=https://npm.pkg.github.com/" >> .npmrc
 ```
 
-Next, you need to set up your auth token in your `~/.npmrc` file
+Next, you need to set up your auth token in your `~/.npmrc` file.
 Instruction to generate a personal access token can be found [here][3].
 
 ```console
