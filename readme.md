@@ -15,6 +15,7 @@ The playbook has largely been inspired by _(or downright stolen from)_ [The Thou
 1. [How We Work](how-we-work.md)
 1. [Our Rituals](our-rituals.md)
 1. [Our Preferred Solutions](our-preferred-solutions.md)
+1. [Using Github Packages](github-packages.md)
 1. [Things We Support](things-we-support.md)
 1. [Your Career Here](your-career-here.md)
 
