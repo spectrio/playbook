@@ -22,3 +22,6 @@ You should already know this one. Testing code is important. But it is important
 
 ## UAT 
 **User Acceptance Testing** A form of testing where an application or feature is released to a staging server and stakeholders are expected to test/report bugs. UAT passes when all features are working without any reported bugs. UAT is NOT the place/time to request/add additional features.
+
+## PBR 
+**Product Backlog Review** This event takes place twice per sprint. This is when the Product team and the Engineering team review tasks to be worked to confirm 

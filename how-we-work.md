@@ -29,8 +29,8 @@ While submitting a PR, please provide a bullet pointed TL;DR list of things that
 
 Once a PR has had one successful approval, it may be merged by either the approver or the person that submitted the PR.
 
-## Jira and Kanban
-You will be added to Jira and assigned to any project boards that your expertise may be valuable on. Each board is groomed weekly. We follow a Kanban style of development. In other words: 
+## Jira and LeSS
+You will be added to Jira and assigned to any project boards that your expertise may be valuable on. Each board is groomed weekly. We follow a LeSS style Scrum of development. In other words: 
     * Work your way down the board until you see something you feel comfortable doing.
     * Take work as you need it.
     * Do it right the first time (tested, clean code pls).
